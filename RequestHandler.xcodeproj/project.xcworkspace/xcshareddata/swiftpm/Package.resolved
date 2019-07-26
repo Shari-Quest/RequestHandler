@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "MyPackage",
+        "repositoryURL": "https://github.com/Shari-Quest/MyPackage.git",
+        "state": {
+          "branch": null,
+          "revision": "cc46b4f6a00e71294610ce02a5a7abb5d64ce4b3",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
